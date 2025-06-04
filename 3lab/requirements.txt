@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+celery
+redis
+redislite
+pydantic
+websockets
+aiofiles
+sqlalchemy
+python-dotenv
+click 
